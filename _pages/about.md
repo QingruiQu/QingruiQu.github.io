@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Qingrui Qu
+# Qingrui Qu
 
 I am a third-year Ph.D. student at Southern University of Science and Technology (SUSTech) in Shenzhen, China , advised by Prof. [Yifei Zhu](https://yifeizhu.github.io/). I am interested in algebraic topology.  
 
