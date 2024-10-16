@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "cn"
-title                    : "Qingrui Qu / Main"
+title                    : "Main"
 title_separator          : "-"
 name                     : &name "Qingrui Qu"
 description              : &description "personal description"
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Qingrui Qu"
-  pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  pronouns         : #"he/him/his"  
+  bio              : "Math|Natural history"
   location         : "Shenzhen, China"
   employer         : "Southern University <br> of Science and Technology"
   uri              : # URL
