@@ -12,11 +12,17 @@ redirect_from:
 Education
 ======
 - **Southern University of Science and Technology**, Shenzhen, China
-  Ph.D. in Mathematics, September 2022 - Present - 2026 (expected) 
+  
+  Ph.D. in *Mathematics*, September 2022 - Present - 2026 (expected)
+  
 - **Beijing Normal University**, Beijing, China
-  M.S. in Mathematics, September 2019 - June 2022
-- **China University of Geosciences (Wuhan)**, Wuhan, China
-  B.E. in Remote Sensing Science and Technology
+  
+  M.S. in *Mathematics*, September 2019 - June 2022
+  
+- **China University of Geosciences**, Wuhan, China
+  
+  B.E. in *Remote Sensing Science and Technology*, September 2015 - June 2019
+
 
 Work experience
 ======
