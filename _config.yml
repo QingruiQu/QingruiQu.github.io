@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Qingrui Qu"
   pronouns         : #"he/him/his"  
-  bio              : "A doctoral student <br>currently studying mathematics"
+  bio              : "A doctoral student <br> studying mathematics"
   location         : "Shenzhen, China"
   employer         : "Southern University <br> of Science and Technology"
-  uri              : "https://www.sustech.edu.cn/en/"
+  uri              : 
   email            : "12231283@mail.sustech.edu.cn" 
 
   # Academic websites
