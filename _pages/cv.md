@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **Southern University of Science and Technology**, Shenzhen, China
+  Ph.D. in Mathematics, September 2022 - Present - 2026 (expected) 
+- **Beijing Normal University**, Beijing, China
+  M.S. in Mathematics, September 2019 - June 2022
+- **China University of Geosciences (Wuhan)**, Wuhan, China
+  B.E. in Remote Sensing Science and Technology
 
 Work experience
 ======
