@@ -11,6 +11,9 @@ redirect_from:
 
 A PDF version
 
+Work experience
+======
+
 Education
 ======
 - **Southern University of Science and Technology**, Shenzhen, China <br>
@@ -27,8 +30,4 @@ Education
   B.E. in *Remote Sensing Science and Technology* <br>
   September 2015 - June 2019
 
-
-Work experience
-======
-  
 
