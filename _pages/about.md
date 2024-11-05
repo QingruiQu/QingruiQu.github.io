@@ -14,3 +14,6 @@ Contact
 ======
 Email: 12231283@mail.sustech.edu.cn
 
+Link
+======
+[Graduate Seminar Website](https://sustech-topology.github.io/grad/)
