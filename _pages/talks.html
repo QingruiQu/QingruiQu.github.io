@@ -52,20 +52,6 @@ author_profile: true
             /* text-decoration: none;  悬停时取消下划线 */
         }
 
-       /* 自定义三角图标（替代默认图标） */
-        summary::after {
-            content: "→";
-            position: absolute;
-            right: 1rem;
-            transform: rotate(90deg);
-            transition: transform 0.2s;
-        }
-
-        /* 展开状态下的三角图标 */
-        details[open] summary::after {
-            transform: rotate(270deg);
-        }
-
     </style>
 </head>
 
