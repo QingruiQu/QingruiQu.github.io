@@ -32,7 +32,7 @@ author_profile: true
 </script></head>
 
 
-<!--
+
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Details and Summary Example</title>
@@ -51,44 +51,8 @@ author_profile: true
             color: #004080; /* 悬停时改变文字颜色，深蓝*/  /* Medium Slate Blue #7B68EE*/
             /* text-decoration: none;  悬停时取消下划线 */
         }
-    </style>
-</head>
--->
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Optimized Details/Summary</title>
-    <style>
-        /* 全局优化：确保默认样式一致 */
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        /* 容器样式 */
-        details {
-            margin: 1rem 0;
-            border: 1px solid #e0e0e0;
-            border-radius: 8px;
-            overflow: hidden;
-            transition: all 0.3s ease;
-        }
-
-        /* 标题优化 */
-        summary {
-            cursor: pointer;
-            padding: 0.75rem 1rem;
-            font-weight: 600;
-            color: #4682B4;
-            background-color: #f8f9fa;
-            list-style: none; /* 隐藏默认三角图标 */
-            position: relative;
-            transition: all 0.2s ease;
-        }
-
-        /* 自定义三角图标（替代默认图标） */
+       /* 自定义三角图标（替代默认图标） */
         summary::after {
             content: "→";
             position: absolute;
@@ -102,25 +66,11 @@ author_profile: true
             transform: rotate(270deg);
         }
 
-        /* 悬停和焦点状态 */
-        summary:hover,
-        summary:focus-visible {
-            color: #004080;
-            background-color: #e9ecef;
-        }
-
-        /* 内容区域样式 */
-        .details-content {
-            padding: 1rem;
-            background-color: white;
-        }
-
-        /* 移除默认聚焦轮廓（改用自定义样式） */
-        summary:focus {
-            outline: none;
-        }
     </style>
 </head>
+
+
+
 
 
 <head>
