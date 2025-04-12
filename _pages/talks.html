@@ -52,6 +52,13 @@ author_profile: true
             /* text-decoration: none;  悬停时取消下划线 */
         }
 
+         /* 旋转默认三角图标 */
+        details summary::-webkit-details-marker {
+            transition: transform 0.2s ease;
+        }
+        details[open] summary::-webkit-details-marker {
+            transform: rotate(90deg);
+        }
     </style>
 </head>
 
