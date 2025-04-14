@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version
+
 
 Work experience
 ======
